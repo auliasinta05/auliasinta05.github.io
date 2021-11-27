@@ -1,0 +1,194 @@
+.jumbotron{
+	padding-top: 100px;
+	background-color: lightgrey;
+}
+
+body{
+	min-height: 3000px;
+}
+
+#gallery{
+	background-color:  #e0f7ff;
+}
+
+footer a{
+	text-decoration: none;
+	color: white;
+}
+
+footer{
+	padding-bottom: 30px;
+}
+
+
+section{
+	padding-top: 80px;
+	padding-bottom: 150px;
+}
+
+.container1{
+	background-color: #e0f7ff;
+}
+
+#contact1{
+	background-color: #e0f7ff;
+}
+
+.btn{
+	background-color:lightgrey;
+}
+
+.form-control{
+	background-color: lightgrey;
+
+}
+
+#home{
+	background-color:#e0f7ff ;
+}
+
+.nav-item{
+	background-color: ;
+}
+
+.created{
+	background-color: lightgrey;
+	text-align: center;
+	height: 8px;
+}
+
+.jumbotron text-center mb-3{
+	background-color: lightgrey;
+}
+
+.col-md-3{
+text-align: center;
+font-weight: bold;
+}
+
+
+.containerr{
+	padding-bottom: 2px;
+	border: center;
+	width: 70%;
+	margin-top: -20px;
+	padding-top: 30px;
+	padding-right: 70px;
+	background-color: lightgrey;
+	text-shadow: white;
+}
+
+.card{
+	border: 1px solid;
+	width: 220px;
+	margin-left: 50px;
+	
+}
+
+
+.card-body{
+	background-color: lightgrey;
+}
+
+
+
+.icon{
+	width: 	70px;
+	height: 70px;
+	border-radius: 70px;
+	text-align: center;
+	margin: 0 auto;
+	box-sizing: border-box;/*membuat elemen tetap di dalam kotak*/
+}
+
+.icon-service{
+	width: 20px;
+	margin-top: 10px;
+
+}
+
+footer{
+	padding: 20px 0;
+	background-color: #ddd;
+	color: white;
+	text-align: center;
+}
+
+.img-footer{
+	width:20px;
+}
+
+.kotak-service	.item-service{
+	width: 	25%;
+	padding: 20px;
+	float: 	left;
+	box-sizing: border-box;/*membuat elemen tetap di dalam kotak*/
+}
+
+
+.container h2{
+	text-align: center;
+	padding-top: 20px;
+	padding: 20px;
+}
+
+.item-service h4{
+	text-align: center;
+	padding: 40px;
+	padding: 70px;
+	margin-right: -30px;
+}
+
+.icon img{
+	border: 2px solid black;
+	width: 100px;
+	border-radius: 50px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	float: left;
+}
+
+.form-label{
+	text-align: left;
+}
+
+.col{
+	text-align: left;
+}
+
+.container h3{
+	text-align:left;
+
+}
+
+.container1 label{
+text-align: left;
+}
+
+
+.icon-service img{
+	border: 2px solid black;
+	width: 50px;
+	border-radius: 50px;
+	margin-top: -10px;
+	margin-bottom: 50px;
+	float: none;
+}
+
+.item-service h3{
+	text-align:left;
+	font-size: 20px;
+	margin-top: -10px;
+	margin-bottom: 30px;
+	margin-left: -40px;
+
+}
+
+
+.kotak-service2	.item-service{
+	width: 	15%;
+	padding: 10px;
+	float: 	left;
+	box-sizing: border-box;/*membuat elemen tetap di dalam kotak*/
+	margin-left: 125px;
+}
