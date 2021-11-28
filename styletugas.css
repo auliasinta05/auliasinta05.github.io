@@ -5,6 +5,11 @@
 
 body{
 	min-height: 3000px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.jumbotron h1{
+	font-weight: bold;
 }
 
 #gallery{
